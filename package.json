@@ -1,0 +1,21 @@
+{
+  "name": "restauranthomepage",
+  "version": "1.0.0",
+  "description": "TOD Webpack Project: Restaurant Homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "Ty Lewis",
+  "license": "ISC",
+  "devDependencies": {
+    "@webpack-cli/generators": "^3.0.7",
+    "css-loader": "^6.10.0",
+    "html-webpack-plugin": "^5.6.0",
+    "lorem-ipsum": "^2.0.8",
+    "style-loader": "^3.3.4",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}

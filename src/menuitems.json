@@ -1,0 +1,50 @@
+{
+  "grilledCorn": {
+    "name": "Grilled Corn with Cotija and Lime",
+    "description": "Grilled corn on the cob coated in tangy mayo, Mexican cotija cheese and doused with fresh lime juice.",
+    "meal": "appetiser",
+    "img": "corn"
+  },
+  "spicedVeggies": {
+    "name": "Spiced Grilled Vegatables",
+    "description": "Veggie medley including squash, bell pepper, corn, and artichoke heats. Grilled and tossed with olive oil and our in-house Cajun seasoning blend.",
+    "meal": "appetiser",
+    "img": "veg"
+  },
+  "biscuits": {
+    "name": "Buttermilk Biscuits",
+    "description": "Baked fresh daily! Our old-time country biscuits are made with Ma' Hamhock's secret family recipe.",
+    "meal": "appetiser",
+    "img": "biscuits"
+  },
+  "ribs": {
+    "name": "Baby-Back Ribs",
+    "description": "Slow-cooked and juicy - guaranteed! The quintessential barbecue test and one that we pass with flying colors.",
+    "meal": "main",
+    "img": "ribs"
+  },
+  "lamb": {
+    "name": "Grilled Leg of Lamb",
+    "description": "Grilled to perfection until its falling off the bone. Served with our mango-mint chutney.",
+    "meal": "main",
+    "img": "lamb"
+  },
+  "crab": {
+    "name": "BBQ Soft-Shell Crab",
+    "description": "Flash-boiled and thrown on the grill to sear, these crabs are flown in weekly from Portland, Maine. Served with grilled Vidalia Onions.",
+    "meal": "main",
+    "img": "crabs"
+  },
+  "peaches": {
+    "name": "Grilled Peaches and Cream",
+    "description": "Fresh Georgia peaches halved and grilled for a smoky aftertaste. Served with house-made sweet cream.",
+    "meal": "dessert",
+    "img": "peaches"
+  },
+  "bananaBread": {
+    "name": "Grilled Banana Bread Ice-Cream Sandwiches",
+    "description": "Two slices of house-made banana bread toasted and grilled for a crisp texture. Served with a giant scoop of vanilla-bean ice cream.",
+    "meal": "dessert",
+    "img": "bananabread"
+  }
+}
